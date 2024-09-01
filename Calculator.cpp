@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
     int main(){
-    int firstnum,secondnum,answer,choice;
+    float firstnum,secondnum,answer;
+    int choice;
     cout<<"Enter Two Numbers:"<<endl;
     cin>>firstnum>>secondnum;
     cout<<endl<<"Choose Arithmetic Operation You Wanna Perform:"<<endl;
